@@ -19,6 +19,7 @@ Oran/Algeria
 
 ### Development
 - full stack web developer.
+- AI python developer.
 
 
 ### Profile Link
